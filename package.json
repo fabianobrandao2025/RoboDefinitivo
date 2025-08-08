@@ -1,0 +1,10 @@
+{
+  "name": "robodefinitivo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "puppeteer": "22.10.0",
+    "venom-bot": "5.1.0"
+  }
+}
